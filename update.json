@@ -1,5 +1,5 @@
 {
   "version": "1.0.7",
   "downloadUrl": "https://github.com/aifbulkhia/once-human-aif-updates/releases/tag/v1.0.7",
-  "notes": ""**Fixes**\n\n- Fixed issue where opening the Auto Swap Program caused too many notifications.\n- Fixed issue where Auto Swap only worked in iPad View. It now works properly in Borderless Window mode.\n\n**Improvements**\n\n- Improved UI for smoother performance.\n\n**New Features**\n\n- The program will now auto-minimize when the Auto Swap Program is opened.\n- Added Hotkeys:\n  - F7 - Turn ON the program\n  - F8 - Turn OFF the program"."
+  "notes": "**Fixes**\n\n- Fixed issue where opening the Auto Swap Program caused too many notifications.\n- Fixed issue where Auto Swap only worked in iPad View. It now works properly in Borderless Window mode.\n\n**Improvements**\n\n- Improved UI for smoother performance.\n\n**New Features**\n\n- The program will now auto-minimize when the Auto Swap Program is opened.\n- Added Hotkeys:\n  - F7 - Turn ON the program\n  - F8 - Turn OFF the program"
 }
